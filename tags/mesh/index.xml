@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Hugo Blog</title>
-    <link>-baseUrl=bloom5.github.io/tags/mesh/index.xml</link>
+    <link>http://bloom5.github.io/tags/mesh/index.xml</link>
     <description>Recent content on My Hugo Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015 - 2016, Bloom5; all rights reserved.</copyright>
-    <atom:link href="-baseUrl=bloom5.github.io/tags/mesh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://bloom5.github.io/tags/mesh/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>a glimpse at Bluetooth mesh</title>
-      <link>/-baseUrl=bloom5.github.io/post/a%20glimpse%20at%20Bluetooth%20mesh/</link>
+      <link>http://bloom5.github.io/post/a%20glimpse%20at%20Bluetooth%20mesh/</link>
       <pubDate>Mon, 17 Jul 2017 21:38:44 +0800</pubDate>
       
-      <guid>/-baseUrl=bloom5.github.io/post/a%20glimpse%20at%20Bluetooth%20mesh/</guid>
+      <guid>http://bloom5.github.io/post/a%20glimpse%20at%20Bluetooth%20mesh/</guid>
       <description>
 
 &lt;hr /&gt;
